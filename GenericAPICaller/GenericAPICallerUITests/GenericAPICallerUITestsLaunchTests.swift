@@ -1,13 +1,13 @@
 //
-//  TranslationAppUITestsLaunchTests.swift
-//  TranslationAppUITests
+//  GenericAPICallerUITestsLaunchTests.swift
+//  GenericAPICallerUITests
 //
-//  Created by BJIT on 26/5/22.
+//  Created by BJIT on 30/5/22.
 //
 
 import XCTest
 
-class TranslationAppUITestsLaunchTests: XCTestCase {
+class GenericAPICallerUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true
